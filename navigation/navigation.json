@@ -117,14 +117,6 @@
         "url": "https://tympanus.net/codrops/collective/"
       },
       {
-        "title": "CSS Tricks",
-        "url": "https://css-tricks.com/"
-      },
-      {
-        "title": "张鑫旭博客",
-        "url": "https://www.zhangxinxu.com/"
-      },
-      {
         "title": "setuptools",
         "url": "https://setuptools.readthedocs.io/en/latest/index.html"
       },
@@ -242,15 +234,6 @@
     ]
   },
   {
-    "name": "博客",
-    "links": [
-      {
-        "title": "",
-        "url": "https://biyuqi.github.io/fe-navigation/#/tech-blog"
-      }
-    ]
-  },
-  {
     "name": "聚合",
     "links": [
       {
@@ -263,8 +246,33 @@
     "name": "博客",
     "links": [
       {
+        "title": "CSS Tricks",
+        "url": "https://css-tricks.com/"
+      },
+      {
+        "title": "张鑫旭博客",
+        "url": "https://www.zhangxinxu.com/"
+      },
+      {
+        "title": "阮一峰",
+        "url": "http://www.ruanyifeng.com/blog/"
+      },
+      {
         "title": "运维咖啡吧",
         "url": "https://blog.ops-coffee.cn/"
+      }
+    ]
+  },
+  {
+    "name": "字体图标",
+    "links": [
+      {
+        "title": "FontAwesome",
+        "url": "https://www.bootcss.com/p/font-awesome/"
+      },
+      {
+        "title": "IconFont",
+        "url": "https://www.iconfont.cn/"
       }
     ]
   }
