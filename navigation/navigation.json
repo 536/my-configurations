@@ -1,0 +1,271 @@
+[
+  {
+    "name": "常用",
+    "links": [
+      {
+        "title": "Google",
+        "url": "https://www.google.com/"
+      },
+      {
+        "title": "百度",
+        "url": "https://www.baidu.com/"
+      },
+      {
+        "title": "百度翻译",
+        "url": "https://fanyi.baidu.com/"
+      },
+      {
+        "title": "Google Translate",
+        "url": "https://translate.google.com/"
+      }
+    ]
+  },
+  {
+    "name": "编程",
+    "links": [
+      {
+        "title": "Github",
+        "url": "https://github.com/search?q="
+      },
+      {
+        "title": "stackoverflow",
+        "url": "https://stackoverflow.com/search?q="
+      },
+      {
+        "title": "掘金",
+        "url": "https://juejin.cn/"
+      }
+    ]
+  },
+  {
+    "name": "文档",
+    "links": [
+      {
+        "title": "Autohotkey",
+        "url": "https://wyagd001.github.io/zh-cn/docs/AutoHotkey.htm"
+      },
+      {
+        "title": "Python",
+        "url": "https://docs.python.org/zh-cn/3/"
+      },
+      {
+        "title": "Django",
+        "url": "https://docs.djangoproject.com/zh-hans/"
+      },
+      {
+        "title": "MDN",
+        "desc": "Resources for developers, by developers.",
+        "url": "https://developer.mozilla.org"
+      },
+      {
+        "title": "Vuejs",
+        "logo": "https://cn.vuejs.org/images/logo.svg",
+        "url": "https://cn.vuejs.org/"
+      },
+      {
+        "title": "Django Packages",
+        "logo": "https://djangopackages.org/static/img/favicon.png",
+        "url": "https://djangopackages.org/"
+      },
+      {
+        "title": "Django-Rest-Framework",
+        "logo": "https://www.django-rest-framework.org/img/favicon.ico",
+        "url": "https://www.django-rest-framework.org/"
+      },
+      {
+        "title": "Flask",
+        "url": "https://flask.palletsprojects.com/en/latest/"
+      }
+    ]
+  },
+  {
+    "name": "工具",
+    "links": [
+      {
+        "title": "Outlook",
+        "url": "https://outlook.live.com/mail/0/inbox"
+      },
+      {
+        "title": "Processon",
+        "url": "https://www.processon.com/diagrams"
+      },
+      {
+        "title": "在线工具",
+        "url": "https://www.bejson.com/ui/compress_img/"
+      },
+      {
+        "title": "正则匹配",
+        "url": "https://regex101.com/"
+      },
+      {
+        "title": "正则图形化",
+        "url": "https://regexper.com/"
+      }
+    ]
+  },
+  {
+    "name": "阅读",
+    "links": [
+      {
+        "title": "Python工匠",
+        "url": "https://github.com/piglei/one-python-craftsman"
+      },
+      {
+        "title": "tympanus",
+        "desc": "CSS样式",
+        "logo": "https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/themes/codropstheme03/favicons/favicon.ico",
+        "url": "https://tympanus.net/codrops/collective/"
+      },
+      {
+        "title": "CSS Tricks",
+        "url": "https://css-tricks.com/"
+      },
+      {
+        "title": "张鑫旭博客",
+        "url": "https://www.zhangxinxu.com/"
+      },
+      {
+        "title": "setuptools",
+        "url": "https://setuptools.readthedocs.io/en/latest/index.html"
+      },
+      {
+        "title": "Python Cookbook",
+        "url": "https://python3-cookbook.readthedocs.io/zh_CN/latest/"
+      },
+      {
+        "title": "XPath语法",
+        "logo": "https://www.w3school.com.cn/ui2019/logo-32-red.png",
+        "url": "https://www.w3school.com.cn/xpath/xpath_syntax.asp"
+      },
+      {
+        "title": "Scrapy入门教程",
+        "url": "https://scrapy-chs.readthedocs.io/zh_CN/latest/intro/tutorial.html"
+      },
+      {
+        "title": "Learn X in Y minutes",
+        "url": "https://learnxinyminutes.com/"
+      },
+      {
+        "title": "xlsxwriter",
+        "url": "https://xlsxwriter.readthedocs.io/"
+      },
+      {
+        "title": "sqlite python",
+        "url": "https://www.tutorialspoint.com/sqlite/sqlite_python.htm"
+      },
+      {
+        "title": "developer.oracle.com",
+        "logo": "https://www.oracle.com/asset/web/favicons/favicon-32.png",
+        "url": "https://developer.oracle.com/"
+      },
+      {
+        "title": "echarts",
+        "url": "https://echarts.apache.org/zh/feature.html"
+      },
+      {
+        "title": "Google Python Styleguide",
+        "desc": "Google 开源项目风格指南",
+        "url": "https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/"
+      },
+      {
+        "title": "Git Reference",
+        "url": "https://git.github.io/git-reference/"
+      },
+      {
+        "title": "dev free books",
+        "url": "https://devfreebooks.github.io/"
+      },
+      {
+        "title": "The Linux Command Line",
+        "desc": "快乐的 Linux 命令行",
+        "logo": "https://billie66.github.io/TLCL/images/billi66.png",
+        "url": "https://billie66.github.io/TLCL/"
+      },
+      {
+        "title": "any-rule",
+        "desc": "正则大全",
+        "logo": "https://any86.github.io/any-rule/favicon.ico",
+        "url": "https://any86.github.io/any-rule/"
+      }
+    ]
+  },
+  {
+    "name": "资源",
+    "links": [
+      {
+        "title": "pixabay",
+        "desc": "免费图片",
+        "url": "https://pixabay.com/"
+      },
+      {
+        "title": "iconfont",
+        "logo": "https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico",
+        "url": "https://www.iconfont.cn/"
+      },
+      {
+        "title": "知乎",
+        "url": "https://www.zhihu.com/search?type=content&q="
+      }
+    ]
+  },
+  {
+    "name": "好玩",
+    "links": [
+      {
+        "title": "weavesilk",
+        "url": "http://weavesilk.com/"
+      },
+      {
+        "title": "nsf播放器",
+        "url": "https://nsf.magecorn.com/"
+      },
+      {
+        "desc": "根据谷歌地图猜地理位置",
+        "url": "https://www.geoguessr.com/maps/world"
+      },
+      {
+        "title": "puzzle",
+        "url": "https://lucifier129.github.io/"
+      },
+      {
+        "title": "滚蛋吧！莆田系",
+        "url": "https://putianxi.github.io/"
+      },
+      {
+        "title": "8values问卷测试",
+        "url": "https://8values.github.io/quiz.html"
+      },
+      {
+        "title": "magic keyboard",
+        "url": "http://magickeyboard.io/"
+      }
+    ]
+  },
+  {
+    "name": "博客",
+    "links": [
+      {
+        "title": "",
+        "url": "https://biyuqi.github.io/fe-navigation/#/tech-blog"
+      }
+    ]
+  },
+  {
+    "name": "聚合",
+    "links": [
+      {
+        "title": "",
+        "url": "https://frontend.microdba.com/#gameFramework"
+      }
+    ]
+  },
+  {
+    "name": "博客",
+    "links": [
+      {
+        "title": "运维咖啡吧",
+        "url": "https://blog.ops-coffee.cn/"
+      }
+    ]
+  }
+]
