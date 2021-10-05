@@ -17,6 +17,10 @@
       {
         "title": "Google Translate",
         "url": "https://translate.google.com/"
+      },
+      {
+        "title": "知乎",
+        "url": "https://www.zhihu.com/search?type=content&q="
       }
     ]
   },
@@ -100,6 +104,15 @@
       {
         "title": "正则图形化",
         "url": "https://regexper.com/"
+      },
+      {
+        "title": "全网音乐免费下载",
+        "url": "http://www.zgei.com/"
+      },
+      {
+        "title": "音乐解锁",
+        "desc": "移除已购音乐的加密保护",
+        "url": "https://unlock-music-ix.netlify.app/"
       }
     ]
   },
@@ -188,15 +201,6 @@
         "title": "pixabay",
         "desc": "免费图片",
         "url": "https://pixabay.com/"
-      },
-      {
-        "title": "iconfont",
-        "logo": "https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico",
-        "url": "https://www.iconfont.cn/"
-      },
-      {
-        "title": "知乎",
-        "url": "https://www.zhihu.com/search?type=content&q="
       }
     ]
   },
@@ -234,15 +238,6 @@
     ]
   },
   {
-    "name": "聚合",
-    "links": [
-      {
-        "title": "",
-        "url": "https://frontend.microdba.com/#gameFramework"
-      }
-    ]
-  },
-  {
     "name": "博客",
     "links": [
       {
@@ -260,6 +255,63 @@
       {
         "title": "运维咖啡吧",
         "url": "https://blog.ops-coffee.cn/"
+      },
+      {
+        "url": "http://www.matrix67.com/blog/"
+      },
+      {
+        "url": "http://www.jeyzhang.com/"
+      },
+      {
+        "url": "http://www.bd7iwd.com/"
+      },
+      {
+        "url": "https://yuchao.wang/article/2"
+      },
+      {
+        "url": "https://a1364533187.github.io/wuer-sBlog/"
+      },
+      {
+        "url": "https://alvindaiyan.github.io/"
+      },
+      {
+        "url": "https://www.qfcoder.com/"
+      },
+      {
+        "url": "http://fex.baidu.com/"
+      },
+      {
+        "url": "https://www.barretlee.com/entry/"
+      },
+      {
+        "url": "https://selfboot.cn/"
+      },
+      {
+        "url": "https://www.ahonn.me/"
+      },
+      {
+        "url": "https://www.haomwei.com/"
+      },
+      {
+        "url": "https://wangye.org/posts"
+      },
+      {
+        "url": "http://4leaf.me/post/103714245167/"
+      },
+      {
+        "url": "https://blog.huangyafei.com/"
+      },
+      {
+        "url": "http://thinkai.net/"
+      },
+      {
+        "url": "https://ryanc.cc/"
+      },
+      {
+        "url": "https://buzzlightyears.github.io/hello-world/"
+      },
+      {
+        "url": "https://blog.csdn.net/liuyukuan"
       }
     ]
   },
@@ -272,6 +324,7 @@
       },
       {
         "title": "IconFont",
+        "logo": "https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico",
         "url": "https://www.iconfont.cn/"
       }
     ]
